@@ -1,5 +1,5 @@
 //imports
-const express = require('express')
+const express = require('express');
 const bodyParser = require('body-parser'); 
 const encryptFile = require('./strategy/encrypt.js')
 const decryptFile = require('./strategy/decrypt.js')
